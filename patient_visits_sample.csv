@@ -1,0 +1,51 @@
+patient_id,visit_date,department,reason_for_visit,diagnosis_code,age,gender,zip_code,visit_duration_minutes,payment_type,follow_up_needed
+101,2025-08-04,Neurology,Let people,I20.9,4,Female,10003,43,Medicaid,Yes
+102,2025-03-06,Neurology,Do move,G40.9,70,Male,10009,69,Insurance,Yes
+103,2025-07-26,Cardiology,Much generation off,J10.1,30,Male,10009,40,Self-pay,Yes
+104,2025-05-15,Dermatology,Take,M25.561,36,Male,10013,35,Self-pay,No
+105,2025-03-13,Emergency,Return far arrive,J10.1,28,Female,10001,26,Self-pay,Yes
+106,2025-06-28,Emergency,Animal fear,C50.9,45,Female,10013,20,Self-pay,Yes
+107,2025-03-11,Dermatology,Well,I20.9,71,Female,10013,61,Medicaid,Yes
+108,2025-06-22,Cardiology,Source across exactly,G40.9,30,Female,10001,44,Insurance,No
+109,2025-04-20,Emergency,Give window each,L30.9,82,Female,10003,62,Medicare,Yes
+110,2025-02-16,Neurology,Rate success adult,J40.0,90,Male,10009,36,Medicaid,Yes
+111,2025-03-14,Dermatology,Type,L30.9,35,Male,10011,56,Insurance,Yes
+112,2025-05-26,Oncology,Exist play benefit,I20.9,41,Female,10005,23,Medicaid,No
+113,2025-03-20,Pediatrics,Travel,G40.9,64,Female,10011,73,Medicaid,No
+114,2025-02-19,Pediatrics,Camera describe happy,J10.1,72,Female,10011,89,Self-pay,No
+115,2025-05-25,Emergency,Travel standard kitchen,J10.1,18,Female,10001,21,Insurance,Yes
+116,2025-06-16,Neurology,He none,J10.1,88,Female,10009,23,Self-pay,No
+117,2025-06-29,Orthopedics,Land,L30.9,68,Female,10009,16,Insurance,No
+118,2025-02-08,Oncology,May,G40.9,44,Male,10005,70,Medicaid,No
+119,2025-07-21,Cardiology,Accept strategy professor,G40.9,34,Male,10009,28,Medicare,Yes
+120,2025-04-25,Pediatrics,Different month,J40.0,21,Male,10009,56,Self-pay,Yes
+121,2025-05-28,Cardiology,Stage garden,J40.0,40,Male,10001,45,Insurance,Yes
+122,2025-03-29,Neurology,Address,L30.9,9,Male,10003,75,Medicaid,No
+123,2025-04-01,Orthopedics,Resource with organization,C50.9,78,Female,10003,84,Medicaid,No
+124,2025-07-02,Dermatology,Maintain fish,G40.9,84,Female,10007,81,Self-pay,Yes
+125,2025-06-03,Pediatrics,Establish nice,J10.1,9,Female,10001,90,Medicaid,Yes
+126,2025-04-28,Cardiology,Wish Mr audience weight,I20.9,81,Male,10003,23,Insurance,No
+127,2025-02-21,Cardiology,Meet nice partner,M25.561,31,Female,10011,77,Medicaid,Yes
+128,2025-03-03,Neurology,Skill picture,M25.561,74,Female,10003,75,Self-pay,Yes
+129,2025-04-25,Cardiology,Purpose note,I20.9,85,Female,10005,69,Self-pay,No
+130,2025-03-10,Oncology,Quite,G40.9,7,Male,10001,66,Medicare,Yes
+131,2025-02-17,Pediatrics,Memory condition another,J10.1,25,Female,10003,69,Medicaid,No
+132,2025-07-29,Dermatology,Difference factor develop,J10.1,10,Female,10013,85,Insurance,Yes
+133,2025-03-24,Neurology,Race approach common,M25.561,2,Male,10013,45,Medicaid,No
+134,2025-07-19,Dermatology,Future life them,L30.9,28,Female,10001,36,Self-pay,Yes
+135,2025-06-06,Dermatology,Girl seven cold tree,J40.0,59,Female,10007,86,Self-pay,Yes
+136,2025-03-04,Pediatrics,Mission your,J40.0,28,Male,10009,84,Insurance,No
+137,2025-04-12,Cardiology,Return four tonight,I20.9,75,Female,10009,82,Medicaid,Yes
+138,2025-02-22,Orthopedics,Risk free,I20.9,24,Male,10009,23,Medicaid,No
+139,2025-05-24,Cardiology,Word film,M25.561,32,Male,10009,25,Self-pay,No
+140,2025-07-03,Emergency,Statement yard generation,J10.1,86,Female,10003,48,Self-pay,Yes
+141,2025-08-03,Neurology,Over school,G40.9,39,Female,10005,24,Insurance,No
+142,2025-07-29,Orthopedics,Remain world,M25.561,13,Male,10009,42,Medicare,Yes
+143,2025-02-28,Emergency,Sit sort,I20.9,32,Female,10005,35,Self-pay,No
+144,2025-03-23,Orthopedics,Than affect,C50.9,84,Male,10011,85,Medicare,Yes
+145,2025-08-05,Pediatrics,Behavior network,J40.0,15,Male,10011,85,Medicaid,No
+146,2025-05-03,Emergency,Control box enjoy,M25.561,27,Female,10003,48,Self-pay,No
+147,2025-08-01,Oncology,Worker become bill culture,I20.9,12,Female,10013,50,Insurance,Yes
+148,2025-03-20,Emergency,Close style we,C50.9,17,Female,10003,71,Self-pay,Yes
+149,2025-04-27,Cardiology,Impact role,I20.9,89,Male,10009,19,Medicare,Yes
+150,2025-06-12,Dermatology,People statement,J10.1,6,Female,10005,20,Medicare,Yes
